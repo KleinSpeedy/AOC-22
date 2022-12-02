@@ -6,7 +6,8 @@ set(CMAKE_C_COMPILER gcc)
 set(CMAKE_SYSTEM Linux)
 
 # Miscelaneous
-include_directories(misc)
+include_directories(puzzle-inputs/)
 
 # Puzzles
-add_subdirectory(1)
+add_subdirectory(days/1)
+add_subdirectory(days/2)

@@ -8,7 +8,7 @@ if [ -z "$1" ]; then
 elif (( $1 >= $min )) && (( $1 <= $max )); then
     exe="day$1"
     echo "Running day-$1"
-    ./build/$1/$exe
+    ./build/days/$1/$exe
 else
     echo "There is no advent-door for: $1"
 fi

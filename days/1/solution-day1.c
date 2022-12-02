@@ -43,7 +43,7 @@ void getElvCaloriesRanking(int *elves, int elvCount)
 int main(int argc, char **argv)
 { 
     /* File IO */
-    FILE *fp = fopen("./misc/input.txt", "r");
+    FILE *fp = fopen("puzzle-inputs/1/input.txt", "r");
     if(!fp)
     {
         fprintf(stderr, "Error opening file '%s'\n", "input.txt");

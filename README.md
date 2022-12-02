@@ -4,12 +4,17 @@
 **About [Advent of Code](https://adventofcode.com/2022/about) puzzles.**
 
 ---
-### Day 1
+### Day 1 - Calories elves
 
-Each elv carries food and each food-item has a specified amount of calories.
+[**Day 1**](days/1/)
 
-1. Get the highest amount of calories
-2. Get the three highest amounts of calories
+> Solved in `C`
+
+---
+
+### Day 2 - Rock-Paper-Scissors
+
+[**Day 2**](days/2/)
 
 > Solved in `C`
 
