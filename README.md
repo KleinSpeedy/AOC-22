@@ -19,3 +19,11 @@
 > Solved in `C`
 
 ---
+
+### Day 3 - Item priority
+
+[**Day 3**](days/3/)
+
+> Solved in `C`
+
+---
