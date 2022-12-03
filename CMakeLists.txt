@@ -11,3 +11,4 @@ include_directories(puzzle-inputs/)
 # Puzzles
 add_subdirectory(days/1)
 add_subdirectory(days/2)
+add_subdirectory(days/3)
